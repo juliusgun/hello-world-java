@@ -18,7 +18,7 @@ public class HelloWorldApplication {
 
       @RequestMapping(path = "/", method = RequestMethod.GET)
       public String Get() {
-          return "Hello Java World";
+          return "Hello Java World 2";
       } 
     }
   
