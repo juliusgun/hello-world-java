@@ -18,7 +18,7 @@ public class HelloWorldApplication {
 
       @RequestMapping(path = "/", method = RequestMethod.GET)
       public String Get() {
-          return "Hello Hutchinson PoC 2021 !!!";
+          return "Hello OpenShift World 2021 !!!";
       } 
     }
   
